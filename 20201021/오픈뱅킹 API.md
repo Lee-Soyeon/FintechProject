@@ -33,5 +33,5 @@
 
 ### 접근 권한 인증 과정
 
-<img width="495" alt="그림1" src="https://user-images.githubusercontent.com/39182235/96674953-d0963000-13a4-11eb-9392-a40101223caa.png">
+<img alt="그림1" src="https://user-images.githubusercontent.com/39182235/96674953-d0963000-13a4-11eb-9392-a40101223caa.png">
 
