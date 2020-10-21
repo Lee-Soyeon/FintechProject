@@ -1,8 +1,9 @@
 # 오픈뱅킹 API
-## https://developers.openbanking.or.kr/
+은행 공동의 인프라를 구축하여, 이용기관이 한번의 오픈뱅킹 가입만으로 시중은행의 공통된 서비스를 오픈 API 형태로 사용할 수 있는 플랫폼 서비스
+
 ![img_openapi_openapi_02](https://user-images.githubusercontent.com/39182235/96674751-739a7a00-13a4-11eb-873b-234f1f0edbdc.jpg)
 
-은행 공동의 인프라를 구축하여, 이용기관이 한번의 오픈뱅킹 가입만으로 시중은행의 공통된 서비스를 오픈 API 형태로 사용할 수 있는 플랫폼 서비스
+
 
 ![191218_pr-openbanking-](https://user-images.githubusercontent.com/39182235/96674755-74331080-13a4-11eb-82b3-023d4f80739f.png)
 
